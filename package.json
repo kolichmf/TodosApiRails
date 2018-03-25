@@ -1,5 +1,7 @@
 {
   "name": "todos-api",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "babel-plugin-transform-inline-environment-variables": "^0.3.0"
+  }
 }
